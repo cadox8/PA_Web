@@ -1,0 +1,170 @@
+.menus {
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.menus.black {
+    color: black;
+}
+
+.loadInfo {
+    font-size: 11px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.important {
+    font-size: 20px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.info {
+    text-align: center;
+    font-size: 75px;
+}
+
+.is-centered {
+    display: block;
+    margin: 0 auto;
+}
+
+.mid {
+    text-align: center;
+}
+.right {
+    float: right;
+}
+.right.is-colored {
+    color: darkgreen;
+}
+.left {
+    float: left;
+}
+
+.ip {
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #3273dc;
+}
+
+p.copyright {
+    color: white;
+    margin: 10px 0 0;
+}
+
+.navbar-colored {
+    background-color: #3273dc;
+    min-height: 3.25rem;
+    position: relative;
+}
+
+.is-image {
+    background: url('http://projectalpha.es/old/img/bg.png') no-repeat;
+    background-size: cover;
+}
+
+.bot {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+}
+
+.card-image:hover .image {
+    opacity: 0.9;
+}
+
+.card-image:hover .bot {
+    opacity: 1;
+}
+
+.imgText {
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    white-space: nowrap;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+.imgText.white {
+    color: #ffffff;
+}
+.imgText.black {
+    color: #000000;
+}
+
+.tag.is-dev {
+    background-color: #8B008B;
+    color: #fff;
+}
+
+.tag.is-plain {
+    background-color: #dcdacd;
+    color: black;
+}
+
+.tag.is-spaced {
+    word-spacing: 10px;
+}
+
+ul li.is-stats {
+    background: #dcdacd;
+    margin: 5px;
+    padding: 7px;
+    -webkit-border-radius: 15px 15px;
+    border-radius: 15px 15px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: forestgreen;
+}
+
+.green2 {
+    color: limegreen;
+}
+
+.orange {
+    color: orangered;
+}
+
+.blue {
+    color: #4a95c1;
+}
+
+.caviar {
+    color: darkorange;
+}
+
+.yellow {
+    color: #fffa70;
+}
+
+.purple {
+    color: #c139b2;
+}
