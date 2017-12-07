@@ -32,14 +32,14 @@ Esta web ha sido creada gracias a:
 - [Flickity](http://flickity.metafizzy.co) - [GPLv3](https://flickity.metafizzy.co/license.html) - flickity team
 - [Hivemc](https://hivemc.com) - Idea del diseño
 
-*ProjectAlpha Web (PA)* es liberado bajo una [Licencia Apache](https://github.com/cadox8/PA_Web/blob/master/LICENSE)
+*ProjectAlpha Web (PA)* es liberado bajo una [Licencia Apache](https://github.com/cadox8/PA_Web/blob/master/LICENSE), aun así, ProjectAlpha prohibe el uso de las imágenes que la web contiene, puesto que estan sacadas de los mapas de propio servidor, y el logotipo de ProjectAlpha.
 
 ## Notas
 > Trabajé durante bastante tiempo en hacer una web la cual me gustase y que fuera funcional para los usuarios por lo que prefiero publicarla para que la gente pueda hacer uso de ella libremente.
 
 > Posiblemente dañe un poco la vista, pero me gustó la combinación de colores (azul y blanca) por lo que decidí dejarla así, aunque sigo con la idea de que le falta un modo oscuro
 
-> Espero que a alguien le sirva este código, bien para uso privado o para continuar con el proyecto y estaríamos encantados de saberlo.
+> Espero que a alguien le sirva este código, bien para uso privado o para continuar con el proyecto y estaríamos encantados de saberlo. También pido que se mencione quien ha sido el desarrollador de la web, puesto que está distribuida gratuitamente y un reconocimiento no cuesta tanto...
 
 # Contacto
 * [Cadox](https://github.com/cadox8) - Desarrollador - cadox8@gmail.com - [Web](http://cadox8.me) - [@cadox8](https://twitter.com/cadox8)
