@@ -2,10 +2,6 @@
 Web usada como página principal de ProjectAlpha.
 Esta web se conectaba el plugin de [PA](https://github.com/cadox8/PA) para mostrar información de los usuarios.
 
-### Demo
-Hay una demo disponible [aquí](https://projectalpha.es/old/) hasta que el servidor donde está alojada cierre.
-En el apartado *comunidad*, al insertar un nombre (Ej.: cadox8) salen apartados con valores nulos, esto es porque no existe ningún registro en la MySQL.
-
 ## Requisitos
 - Servidor web ([Apache](https://www.apache.org))
 - [PHP 7.0](http://php.net/downloads.php) (Recomendado)
