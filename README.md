@@ -1,4 +1,6 @@
 # Web antigua de ProjectAlpha (PA)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcadox8%2FPA_Web.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcadox8%2FPA_Web?ref=badge_shield)
+
 Web usada como página principal de ProjectAlpha.
 Esta web se conectaba el plugin de [PA](https://github.com/cadox8/PA) para mostrar información de los usuarios.
 
@@ -29,6 +31,9 @@ Esta web ha sido creada gracias a:
 - [Hivemc](https://hivemc.com) - Idea del diseño
 
 *ProjectAlpha Web (PA)* es liberado bajo una [Licencia Apache](https://github.com/cadox8/PA_Web/blob/master/LICENSE), aun así, ProjectAlpha prohibe el uso de las imágenes que la web contiene, puesto que estan sacadas de los mapas de propio servidor, y el logotipo de ProjectAlpha.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcadox8%2FPA_Web.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcadox8%2FPA_Web?ref=badge_large)
 
 ## Notas
 > Trabajé durante bastante tiempo en hacer una web la cual me gustase y que fuera funcional para los usuarios por lo que prefiero publicarla para que la gente pueda hacer uso de ella libremente.
